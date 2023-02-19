@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Unlimint Test App</string>
+    <string name="jokes_pref_name">JOKES_PREFERENCE</string>
+</resources>
